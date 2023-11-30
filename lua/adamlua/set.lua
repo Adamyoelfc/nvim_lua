@@ -6,6 +6,8 @@ vim.opt.relativenumber = true
 
 vim.opt.redrawtime = 10000
 
+vim.opt.ignorecase = true
+
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
